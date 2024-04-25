@@ -1,4 +1,4 @@
-package com.example.android_services
+package com.example.android_services.background
 
 import android.app.Service
 import android.content.Intent
